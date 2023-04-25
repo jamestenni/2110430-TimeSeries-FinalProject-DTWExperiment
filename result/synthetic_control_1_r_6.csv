@@ -1,0 +1,8 @@
+"(a, b, c)",weight_symmetric,accuracy_score
+"(1, 1, 1)",symmetric,0.96
+"(1, 2, 1)",symmetric,0.94
+"(1, 0.5, 1)",symmetric,0.9566666666666667
+"(1, 1, 0)",asymmetric,0.7133333333333334
+"(0, 1, 1)",asymmetric,0.98
+"(2, 1, 0.5)",asymmetric,0.8133333333333334
+"(0.5, 1, 2)",asymmetric,0.99
